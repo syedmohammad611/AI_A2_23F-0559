@@ -1,4 +1,4 @@
-# Assignment 2: Pathfinding Visualization informed search algorithms (GBFS and A*) with dynamic obstacle handling and real-time replanning.
+Pathfinding Visualization informed search algorithms (GBFS and A*) with dynamic obstacle handling and real-time replanning.
 
 A visual pathfinding application that demonstrates informed search algorithms (GBFS and A*) with dynamic obstacle handling and real-time replanning.
 
